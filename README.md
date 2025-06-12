@@ -1,1 +1,1 @@
-# nodejs_express_api
+Add to our NodeJS Rest api project Product model. Products consists from fields: category, title, price, array of warehouses where product is located within its quantity, field which contains all specifications of product. Add Rest method for to retrieve all records, one record by id, add new product and update product specifications. Add search method, which returns products with pagination and can filter product list by title of product. 
